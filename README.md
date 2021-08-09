@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gripgod
+- 👀 I’m interested in Ethical hacking and Programming 
+- 🌱 I’m currently learning Python
+- GRIPGOD 
